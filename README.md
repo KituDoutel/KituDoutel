@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development, AI, and IoT projects
 - 🌱 I’m currently learning Python, Arduino, and web development
 - 💞️ I’m looking to collaborate on machine learning, AI-based solutions, and open-source projects
-- 📫 How to reach me: kitu.doutel@example.com
+- 📫 How to reach me: akitudoutel24@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy building DIY tech gadgets and learning new languages
 
