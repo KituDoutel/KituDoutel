@@ -1,55 +1,125 @@
-# Hi 👋, I'm Francisco KITU
+<!-- ===========================
+      HEADER
+=========================== -->
 
-### 💻 Full Stack Web Developer
-### 🇹🇱 From Timor-Leste
+<h1 align="center">Hi 👋, I'm Francisco KITU</h1>
 
----
+<h3 align="center">
+💻 Full Stack Web Developer • UI/UX Designer • Laravel Developer
+</h3>
 
-## 🚀 About Me
+<p align="center">
+🇹🇱 Timor-Leste
+</p>
 
-- 🌱 Learning Laravel & React
-- 💻 PHP | Bootstrap | MySQL
-- 📱 Responsive Web Design
-- 🎯 UI/UX Design
-- ⚡ Love Clean Code
-
----
-
-## 🌐 Portfolio
-
-🌍 Website :
-https://francisco-kitu.vercel.app
-
-📧 Email :
-akitudoutel24@gmail.com
-
-💼 LinkedIn :
-https://linkedin.com/in/francisco-kitu
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+Developer;PHP+%7C+Bootstrap+%7C+MySQL;UI%2FUX+Designer;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
+# 👨‍💻 About Me
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="100px" alt="GitHub Readme Stats" />
+- 🔭 Currently building modern web applications
+- 🌱 Learning Laravel, React & Next.js
+- 💻 Love PHP, JavaScript, Bootstrap and MySQL
+- 🎨 Passionate about UI/UX Design
+- 🚀 Always improving my coding skills
 
 ---
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=KituDoutel&layout=compact&theme=tokyonight)
+# 🌐 Connect With Me
 
-![GitHub Streak](https://streak-stats.demolab.com?user=KituDoutel&theme=tokyonight)
+<p align="left">
+
+<a href="https://github.com/KituDoutel">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
 
 ---
 
-## 📈 Contribution Graph
+# 🚀 Tech Stack
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KituDoutel&theme=highcontrast&hide_border=true&border_radius=7.5)](https://git.io/streak-stats)
+<p>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=php"/>
+
+<img src="https://skillicons.dev/icons?i=laravel"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=KituDoutel&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=KituDoutel&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KituDoutel&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+# 🏆 GitHub Trophy
+
+![](https://github-profile-trophy.vercel.app/?username=KituDoutel&theme=tokyonight&no-frame=true&row=2&column=4)
+
+---
+
+# 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=KituDoutel&theme=tokyo-night)
+
+---
+
+# 🐍 Snake Animation
+
+![](https://raw.githubusercontent.com/KituDoutel/KituDoutel/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+# 💼 Featured Projects
+
+⭐ Odile Belle Salon Website
+
+⭐ Esplora Kódigu
+
+⭐ Laravel Admin Dashboard
+
+⭐ Responsive Portfolio Website
+
+---
+
+# 📊 Visitor Counter
+
+![](https://komarev.com/ghpvc/?username=KituDoutel&label=Profile
