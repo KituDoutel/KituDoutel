@@ -50,8 +50,7 @@ https://linkedin.com/in/yourname
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night)]()
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=KituDoutel&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 ---
 
 ## 🏆 GitHub Trophy
