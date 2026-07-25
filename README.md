@@ -21,7 +21,7 @@
 https://yourwebsite.com
 
 📧 Email :
-your@email.com
+akitudoutel24@gmail.com
 
 💼 LinkedIn :
 https://linkedin.com/in/yourname
@@ -39,8 +39,9 @@ https://linkedin.com/in/yourname
 ---
 
 ## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="100px" alt="GitHub Readme Stats" />
+  <h1 style="font-size: 28px; margin: 10px 0;">GitHub Readme Stats</h1>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
 
