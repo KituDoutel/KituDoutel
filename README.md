@@ -50,7 +50,8 @@ https://linkedin.com/in/yourname
 
 ## 📈 Contribution Graph
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KituDoutel&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KituDoutel&theme=highcontrast&hide_border=true&border_radius=7.5)](https://git.io/streak-stats)
+
 ---
 
 ## 🏆 GitHub Trophy
