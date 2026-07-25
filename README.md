@@ -1,12 +1,65 @@
-- 👋 Hi, I’m KiTu Doutel
-- 👀 I’m interested in software development, AI, and IoT projects
-- 🌱 I’m currently learning Python, Arduino, and web development
-- 💞️ I’m looking to collaborate on machine learning, AI-based solutions, and open-source projects
-- 📫 How to reach me: akitudoutel24@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy building DIY tech gadgets and learning new languages
+# Hi 👋, I'm Francisco Soares Doutel Sarmento
 
-<!---
-KituDoutel/KituDoutel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 Full Stack Web Developer
+### 🇹🇱 From Timor-Leste
+
+---
+
+## 🚀 About Me
+
+- 🌱 Learning Laravel & React
+- 💻 PHP | Bootstrap | MySQL
+- 📱 Responsive Web Design
+- 🎯 UI/UX Design
+- ⚡ Love Clean Code
+
+---
+
+## 🌐 Portfolio
+
+🌍 Website :
+https://yourwebsite.com
+
+📧 Email :
+your@email.com
+
+💼 LinkedIn :
+https://linkedin.com/in/yourname
+
+---
+
+## 🛠 Tech Stack
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night)]()
+
+---
+
+## 🏆 GitHub Trophy
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onedark)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg)
