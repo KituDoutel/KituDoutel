@@ -44,7 +44,7 @@ https://linkedin.com/in/francisco-kitu
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KituDoutel&layout=compact&theme=tokyonight)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=KituDoutel&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=KituDoutel&theme=tokyonight)
 
