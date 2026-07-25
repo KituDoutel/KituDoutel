@@ -1,4 +1,4 @@
-# Hi 👋, I'm Francisco Soares Doutel Sarmento
+# Hi 👋, I'm Francisco KITU
 
 ### 💻 Full Stack Web Developer
 ### 🇹🇱 From Timor-Leste
@@ -18,13 +18,13 @@
 ## 🌐 Portfolio
 
 🌍 Website :
-https://yourwebsite.com
+https://francisco-kitu.vercel.app
 
 📧 Email :
 akitudoutel24@gmail.com
 
 💼 LinkedIn :
-https://linkedin.com/in/yourname
+https://linkedin.com/in/francisco-kitu
 
 ---
 
@@ -53,15 +53,3 @@ https://linkedin.com/in/yourname
 ## 📈 Contribution Graph
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KituDoutel&theme=highcontrast&hide_border=true&border_radius=7.5)](https://git.io/streak-stats)
-
----
-
-## 🏆 GitHub Trophy
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=KituDoutel&theme=onedark)
-
----
-
-## 🐍 Contribution Snake
-
-![Snake](https://raw.githubusercontent.com/KituDoutel/output/github-contribution-grid-snake.svg)
