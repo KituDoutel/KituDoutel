@@ -36,11 +36,11 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/francisco-kitu">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:akitudoutel24@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
