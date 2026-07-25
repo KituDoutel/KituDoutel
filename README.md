@@ -42,6 +42,8 @@ https://linkedin.com/in/yourname
 <div align="center">
   <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="100px" alt="GitHub Readme Stats" />
 
+---
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight)
@@ -56,10 +58,10 @@ https://linkedin.com/in/yourname
 
 ## 🏆 GitHub Trophy
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onedark)
+![Trophy](https://github-profile-trophy.vercel.app/?username=KituDoutel&theme=onedark)
 
 ---
 
 ## 🐍 Contribution Snake
 
-![Snake](https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/KituDoutel/output/github-contribution-grid-snake.svg)
