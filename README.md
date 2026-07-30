@@ -80,24 +80,6 @@ As a Developer, I am looking for opportunities to work on projects that involve 
 
 ---
 
-# 📊 GitHub Statistics
-
-| **Total Contributions** | **Current Streak** | **Longest Streak** |
-|-------------------------|--------------------|--------------------|
-| **646**                 | **5**              | **21**             |
-| Aug 13, 2023 - Present  | Jul 11 - Jul 23    | Feb 14 - Mar 6     |
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KituDoutel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KituDoutel&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KituDoutel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
-</p>
-
----
-
 # 📈 PageSpeed Insights
 
 <div align="center">
