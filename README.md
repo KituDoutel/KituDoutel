@@ -111,37 +111,59 @@ As a Developer, I am looking for opportunities to work on projects that involve 
 | **646**                 | **5**              | **21**             |
 | Aug 13, 2023 - Present  | Jul 11 - Jul 23    | Feb 14 - Mar 6     |
 
-![](https://github-readme-stats.vercel.app/api?username=KituDoutel&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KituDoutel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KituDoutel&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=KituDoutel&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KituDoutel&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KituDoutel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+</p>
 
 ---
 
 # 📈 PageSpeed Insights
 
+<div align="center">
+
 | **Performance** | **Accessibility** | **Best Practices** | **SEO** |
-|-----------------|-------------------|--------------------|---------|
-| **99%**         | **95%**           | **100%**           | **92%** |
+|:---------------:|:-----------------:|:------------------:|:-------:|
+| **🚀 99%**      | **♿ 95%**         | **✅ 100%**        | **🔍 92%** |
+
+</div>
+
+---
+
+# 🖨️ Printed
+
+- Booking/Kiosk
+- Parking
+- Web-guiating
+- Parking
 
 ---
 
 # 🏆 GitHub Trophy
 
-![](https://github-profile-trophy.vercel.app/?username=KituDoutel&theme=tokyonight&no-frame=true&row=2&column=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KituDoutel&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophy" />
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=KituDoutel&theme=tokyo-night)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KituDoutel&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="Contribution Graph" />
+</p>
 
 ---
 
 # 🐍 Snake Animation
 
-![](https://raw.githubusercontent.com/KituDoutel/KituDoutel/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KituDoutel/KituDoutel/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
 ---
 
@@ -161,19 +183,10 @@ As a Developer, I am looking for opportunities to work on projects that involve 
 
 ---
 
-# 🖨️ Printed Products
-
-- Booking/Kiosk
-- Parking
-- Web-guiating
-- Parking
-
----
-
 # 📊 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KituDoutel&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=KituDoutel&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
