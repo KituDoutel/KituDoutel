@@ -1,5 +1,5 @@
 <!-- ===========================
-      HEADER
+      HEADER
 =========================== -->
 
 <h1 align="center">Hi 👋, I'm Francisco KITU</h1>
@@ -52,54 +52,30 @@ As a Developer, I am looking for opportunities to work on projects that involve 
 
 # 🌐 Connect With Me
 
-<p align="left">
-
-<a href="https://github.com/KituDoutel">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/francisco-kitu">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:akitudoutel24@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
+<p align="center">
+  <a href="https://github.com/KituDoutel">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://linkedin.com/in/francisco-kitu">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:akitudoutel24@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 ---
 
 # 🚀 Tech Stack
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=php"/>
-
-<img src="https://skillicons.dev/icons?i=laravel"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=figma"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=phpstorm"/>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap,mysql,git,github,vscode" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,linux,phpstorm" />
 </p>
 
 ---
@@ -112,7 +88,7 @@ As a Developer, I am looking for opportunities to work on projects that involve 
 | Aug 13, 2023 - Present  | Jul 11 - Jul 23    | Feb 14 - Mar 6     |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KituDoutel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KituDoutel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KituDoutel&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
@@ -196,7 +172,7 @@ As a Developer, I am looking for opportunities to work on projects that involve 
 </p>
 
 <!-- ===========================
-      FOOTER
+      FOOTER
 =========================== -->
 
 <p align="center">
