@@ -119,14 +119,6 @@ As a Developer, I am looking for opportunities to work on projects that involve 
 
 ---
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KituDoutel&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophy" />
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
